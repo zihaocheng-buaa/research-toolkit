@@ -1,0 +1,15 @@
+pref("exportRoot", "");
+pref("cachePath", "");
+pref("paperFolderFormat", "{arxivId} - {title}");
+pref("enabledCollections", "[]");
+pref("exportPdf", true);
+pref("exportKimi", true);
+pref("exportBibtex", true);
+pref("exportNotes", true);
+pref("exportArxivId", true);
+pref("pdfMode", "symlink");
+pref("linkBackToZotero", false);
+pref("autoSync", true);
+pref("pipelineServiceUrl", "http://localhost:7070");
+pref("exportLatex", true);
+pref("exportPipelinePdf", true);
